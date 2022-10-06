@@ -6,7 +6,6 @@ class Ex5
     {
 
 
-
         Console.ReadKey();
     }
 }
