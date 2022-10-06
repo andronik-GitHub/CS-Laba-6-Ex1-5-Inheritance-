@@ -4,7 +4,7 @@ class Ex5
 {
     static void Main()
     {
-        Console.WriteLine("hello world");
+        Console.WriteLine("helloasgasdgasg world");
 
         Console.ReadKey();
     }
